@@ -1,0 +1,26 @@
+.caja{
+	background-image: url("../imag/fondo_ecualizador_de_colores-1024x640.jpeg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	width: 46%;
+	margin-left:24%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+ 
+.boton{
+	border-radius: 24%;
+	width: 10%;
+	padding: 3%;
+}
+
+.pt-10{
+	padding-top: 37%;
+	padding-left: 44%;
+}
+
+.for{
+	background-color: #ddd;
+	margin-right: 37%;
+}
